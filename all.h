@@ -1,3 +1,4 @@
+//ヘッダーファイル(事前にコンパイルしておく)
 #include <cstddef>
 #include <limits>
 #include <climits>
