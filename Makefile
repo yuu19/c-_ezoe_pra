@@ -1,4 +1,4 @@
-#GC:Cに与えるコンパイラーオプション
+#GCCに与えるコンパイラーオプション
 gcc_options = -std=c++17 -Wall --pedantic-error
 
 program : main.cpp all.h all.h.gch
