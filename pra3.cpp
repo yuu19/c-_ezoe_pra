@@ -1,9 +1,9 @@
 
 
-/*
+
 int main() 
 {
-#無限ループするプログラム
+//無限ループするプログラム
 
 loop :
 
@@ -12,10 +12,10 @@ loop :
 goto loop ;
 
 }
-*/
 
 
-/*入力された数値を合計し続けるプログラム
+
+入力された数値を合計し続けるプログラム
 int input() 
 {
     std::cout << ">"s ;
@@ -31,8 +31,8 @@ loop :
     sum = sum + input() ;
     std::cout << sum << "\n"s ;
     goto loop ;
-}  */
-/*指定された回数分"hello"を出力するプログラム
+}  
+指定された回数分"hello"を出力するプログラム
 void hello_n(int n) ;
 
 int main()
@@ -60,7 +60,7 @@ loop :
     goto loop ;
     }
 
-}  */
+}  
 
 void hello_n( int n) ;
 
